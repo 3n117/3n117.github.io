@@ -9,6 +9,10 @@ tag: [docker, ssl, glpi]
 # Prueba1
 Esta es la prinear prueba
 
+'''bash
+sudo apt update
+'''
+
 ## Prueba1.2
 Prueba 1.22
 
