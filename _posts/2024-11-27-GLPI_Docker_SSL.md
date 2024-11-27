@@ -6,10 +6,10 @@ categories: [documentacion]
 tag: [docker, ssl, glpi]
 ---
 
-#Prueba1
+# Prueba1
 Esta es la prinear prueba
 
-##Prueba1.2
+## Prueba1.2
 Prueba 1.22
 
 ### HEading 3
