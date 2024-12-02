@@ -79,11 +79,6 @@ Abre y edita el archivo ubicado en /etc/apache2/sites-available/default-ssl.conf
 
 ``` 
 
-## 2. Crear un volumen para Apache
-Docker, en ocasiones, sobrescribe la configuración de Apache. Para evitar esto, crearemos un volumen que será utilizado más adelante.
-```bash
-$ docker volume create apache-config
-``` 
 
 ## 8. Configurar Apache para escuchar solo en el puerto 443
 Edita el archivo /etc/apache2/ports.conf para que Apache no escuche en el puerto 80. Cambia su contenido para que quede como sigue:
